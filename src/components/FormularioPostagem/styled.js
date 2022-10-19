@@ -16,6 +16,7 @@ export const Form = styled.div`
     justify-content: center;
     align-items: center;
     gap: 2rem;
+    margin-top:5vh;
 `   
 
 export const Input = styled.input`
